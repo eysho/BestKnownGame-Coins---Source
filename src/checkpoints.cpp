@@ -57,8 +57,8 @@ namespace Checkpoints
         &mapCheckpoints,
         1402691751, // * UNIX timestamp of last checkpoint block
         4404988,    // * total number of transactions between genesis and last checkpoint
-        1402691751, // * UNIX timestamp of last checkpoint block
-        0,    // * total number of transactions between genesis and last checkpoint
+//        1402691751, // * UNIX timestamp of last checkpoint block
+//        0,    // * total number of transactions between genesis and last checkpoint
                     //   (the tx=... number in the SetBestChain debug.log lines)
         10000.0     // * estimated number of transactions per day after checkpoint
     };
